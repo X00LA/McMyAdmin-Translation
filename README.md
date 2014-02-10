@@ -27,6 +27,10 @@ Installation
 3. Start McMyAdmin.
 4. Have Fun!
 
+Alternatively you can download the English.js from here:
+
+https://gist.github.com/X00LA/8911577
+
 
 
 GERMAN
@@ -37,5 +41,10 @@ Installation
 2. Platzieren sie die English.js.gz in ihren McMyAdmin/Modern/LanguagePacks Ordner.
 3. Starten sie McMyAdmin.
 4. Haben sie Spaß!
+
+Alternativ kannst du auch die English.js hier herunterladen:
+
+https://gist.github.com/X00LA/8911577
+
 
 
