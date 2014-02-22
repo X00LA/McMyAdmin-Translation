@@ -30,6 +30,7 @@ Installation
 Alternatively you can download the English.js from here:
 
 https://gist.github.com/X00LA/8911577 (2.4.9.4)
+
 https://gist.github.com/X00LA/9147013 (2.5.0.0)
 
 
@@ -45,6 +46,7 @@ Installation
 Alternativ kannst du auch die English.js hier herunterladen:
 
 https://gist.github.com/X00LA/8911577 (2.4.9.4)
+
 https://gist.github.com/X00LA/9147013 (2.5.0.0)
 
 
