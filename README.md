@@ -1,7 +1,7 @@
 McMyAdmin-Translation
 =====================
 
-Deutsche Übersetzung von McMyAdmin 2.4.9.4 / German translation of McMyAdmin 2.4.9.4
+Deutsche Übersetzung von McMyAdmin / German translation of McMyAdmin
 
 Translated/Übersetzt from/von X00LA
 
@@ -29,8 +29,8 @@ Installation
 
 Alternatively you can download the English.js from here:
 
-https://gist.github.com/X00LA/8911577
-
+https://gist.github.com/X00LA/8911577 (2.4.9.4)
+https://gist.github.com/X00LA/9147013 (2.5.0.0)
 
 
 GERMAN
@@ -44,7 +44,7 @@ Installation
 
 Alternativ kannst du auch die English.js hier herunterladen:
 
-https://gist.github.com/X00LA/8911577
-
+https://gist.github.com/X00LA/8911577 (2.4.9.4)
+https://gist.github.com/X00LA/9147013 (2.5.0.0)
 
 
